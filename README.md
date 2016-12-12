@@ -5,9 +5,8 @@ Prerequirement: pip
 
 How to install:
 
-1. $ sudo apt-get install python-pip python-dev build-essential
+1. $ sudo apt-get install python-pip
 
-2. $ sudo pip install --upgrade pip 
 
 # usage
 

@@ -1,9 +1,9 @@
 # python-linear-regression
 For the linux:
 
-prerequirement: pip
+Prerequirement: pip
 
-In the linux, how to install:
+How to install:
 
 1. sudo apt-get install python-pip python-dev build-essential
 

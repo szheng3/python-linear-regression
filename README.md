@@ -1,4 +1,4 @@
-# python-linear-regression
+# python3-linear-regression
 For the linux:
 
 Prerequirement: pip

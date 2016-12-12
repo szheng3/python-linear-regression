@@ -32,3 +32,7 @@ module:
 3. $ jupyter notebook
 4. click python-linear-regression.ipynb to open
 5. In each line, click enter+shift to run
+
+#Mentor:
+
+Professor Homayoun Yousefi'zadeh
